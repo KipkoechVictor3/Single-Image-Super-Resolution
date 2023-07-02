@@ -1,5 +1,3 @@
-addpath 'E:\MATLAB'
-addpath 'E:\MATLAB'\'IMAGE SETS'\
 ImageNames={'aerial1.tiff';'aerial2.tiff';'aerial3.tiff';'aerial4.tiff';
     'baby.png';'bird.png';'woman.png';'zebra.png';'kodim03.png';'kodim10.png';
     'kodim15.png';'airplane.png';'arctichare.png';'girl.png';'lena.png';
